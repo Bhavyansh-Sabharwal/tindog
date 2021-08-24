@@ -71,7 +71,7 @@
   }
 
   /* Title Section */
-  
+
   #title .container-fluid {
     text-align: left;
     padding: 3% 15% 7%;
@@ -152,6 +152,19 @@
 
   .social-icon {
     margin: 20px 10px;
+  }
+
+  .email-text {
+    display: inline-block;
+  }
+
+  .email-link {
+    color: #C1AC95;
+  }
+
+  .email-link:hover {
+    color: #362222;
+    text-decoration: none;
   }
 
   @media (max-width: 1028px) {
